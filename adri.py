@@ -1,0 +1,3 @@
+adri = "adri"
+
+print(adri)
